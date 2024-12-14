@@ -1,0 +1,8 @@
+torch
+pytorch-lightning
+pygod
+torch-geometric
+numpy
+scikit-learn
+matplotlib
+optuna
